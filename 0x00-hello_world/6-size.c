@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * mani -  size of various types on the computer
+ * main - Size of various types on the computer
  *
  * Return: always 0
  */
